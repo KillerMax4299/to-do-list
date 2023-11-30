@@ -28,6 +28,12 @@ export default defineConfig({
             type: "svg",
             purpose: "any maskable",
           },
+          {
+            src: "/vite.svg",
+            sizes: "512x512 ",
+            type: "svg",
+            purpose: "any maskable",
+          },
         ],
         theme_color: "#a6a6a6",
       },
