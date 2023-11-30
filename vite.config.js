@@ -22,11 +22,16 @@ export default defineConfig({
             type: "svg",
             purpose: "any maskable",
           },
-          
+          {
+            src: "/vite.svg",
+            sizes: "144x144 ",
+            type: "svg",
+            purpose: "any maskable",
+          },
         ],
         theme_color: "#a6a6a6",
       },
-      
+
       registerType: "autoUpdate",
       injectRegister: "auto",
     }),
