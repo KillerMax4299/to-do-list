@@ -37,4 +37,4 @@ Welcome to the To-Do-List repository! This project is a generic todolist
 |Styling|✔|
 |Testing|❌|
 
-### Video / GIF [link]()
+
