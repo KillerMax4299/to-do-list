@@ -29,9 +29,9 @@ export default defineConfig({
             purpose: "any maskable",
           },
           {
-            src: "/vite.svg",
+            src: "/maskable_icon_x512.png",
             sizes: "512x512 ",
-            type: "svg",
+            type: "image/png",
             purpose: "any maskable",
           },
         ],
