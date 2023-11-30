@@ -1,8 +1,40 @@
-# React + Vite
+# To-Do-List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the To-Do-List repository! This project is a generic todolist 
 
-Currently, two official plugins are available:
+## Prerequisites
+- Git
+- Node.js (with npm)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+1. Clone the Repository:
+   ```bash
+   git clone "https://github.com/KillerMax4299/to-do-list.git" 
+   ```
+  2. Install dependencies
+      ```bash
+      npm install
+      ```
+  3. **Run** command
+      ```bash
+      npm run dev
+      ```
+
+  The Repo will be live on http://localhost:5173  
+
+
+  ### Requirements
+
+| Features |  Center  |
+|:-----:|:--------:|
+| Tasklist   | ✔ |
+| Add Task Modal/Form   | ✔  |
+| Edit Task Modal/Form   | ✔ |
+| Routing   | ✔ |
+| State Management   | ✔ |
+| LocalStorage   | ✔ |
+|Styling|✔|
+|Testing|❌|
+
+### Video / GIF [link]()
